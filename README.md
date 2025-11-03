@@ -1,0 +1,1 @@
+Estas são minhas atividades do tema Internet e Redes do meu curso Técnico de Desenvolvimentode Sistemas. Onde mostra a conexão da redes feitas através do Switch, o servidor DHCP gerendo IP´s de forma automatizada  e Gateway , a conexão dos servidores através de roteadores, IPV4, protocolo de rede e máscaras  de rede.
